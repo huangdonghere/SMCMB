@@ -1,15 +1,14 @@
-## UDBGL：Efficient Multi-view Clustering via Unified and Discrete Bipartite Graph Learning
+## SMCMB：Scalable Multi-view Clustering via Many Bipartite Graphs
 
-This is the source code for the UDBGL algorithm, which is proposed in the following paper:
+This is a demo for the SMCMB (Scalable Multi-view Clustering via Many Bipartite Graphs) algorithm, which is presented in the following paper.
 
-Si-Guo Fang, Dong Huang, Xiao-Sha Cai, Chang-Dong Wang, Chaobo He, Yong Tang.  
-Efficient Multi-view Clustering via Unified and Discrete Bipartite Graph Learning,  
-IEEE Transactions on Neural Networks and Learning Systems, accepted, 2023.
+Jinghuan Lao, Dong Huang, Chang-Dong Wang, Jian-Huang Lai.
+Towards Scalable Multi-view Clustering via Joint Learning of Many Bipartite Graphs. 
+IEEE Transactions on Big Data, accepted, 2023.  
 
-Run "demo_UDBGL.m" to test the algorithm.
+Run "demo_SMCMB.m" to test the algorithm.
 
 ## Further Questions?
 Don't hesitate to contact us if you have any questions regarding this work.   
-**Email**:   
-siguofang at hotmail dot com  
+**Email**:
 huangdonghere at gmail dot com
